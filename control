@@ -1,0 +1,9 @@
+Package: com.fefe.ios27spoofer
+Name: iOS 27 Visual Spoofer
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Visually changes the iOS Version value shown on the Settings About page to 27.
+Maintainer: FeFe
+Author: FeFe
+Section: Tweaks
+Depends: mobilesubstrate
